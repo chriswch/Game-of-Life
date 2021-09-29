@@ -1,2 +1,2 @@
 all:
-	g++ GameOfLife.cpp -o gol
+	g++ main.cpp GameOfLife.cpp -o gol
